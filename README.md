@@ -1,7 +1,8 @@
 ### Hi, I'm Ostap 🙃
 
 - 📱 I'm an iOS software engineer since 2013
-- 💻 Currently I'm working as a Lead iOS Software Engineer at [EPAM Systems](https://www.epam.com)
+- 💻 Currently I'm working as a Chief Software Engineer at [EPAM Systems](https://www.epam.com)
+-  iOS at day, Node.js at night  
 - 🇺🇦 I live in Kharkiv, Ukraine
 
 ### Contact me:
