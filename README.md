@@ -1,7 +1,7 @@
 ### Hi, I'm Ostap 🙃
 
 - 📱 I'm an iOS software engineer since 2013
-- 💻 Currently I'm working as a Chief iOS Software Engineer at [EPAM Systems](https://www.epam.com)
+- 💻 Currently I'm working as an iOS Software Engineer at [SumUp](https://www.sumup.com)
 -  iOS at day, a little bit Node.js at night  
 
 ### Contact me:
